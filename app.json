@@ -1,7 +1,7 @@
 {
     "name": "Queen_Anita-V2",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
+    "logo": "https://i.pinimg.com/originals/d9/41/8b/d9418bc48ce0520e7cc96de465fe8fff.jpg",
     "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
     "success_url": "/",
     "stack": "container",
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://i.pinimg.com/originals/02/07/94/020794d07925b51b3f219f2639e562",
         "required": false
       },
   
@@ -50,7 +50,7 @@
       "READ_COMMAND": {
         "description": " Read bot cmds",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
@@ -107,7 +107,7 @@
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0g0VVlOQld3YlhVOS9qUHRtOG5qaFBaMWZIUWh1Ty8xdCs1NmhQa0huWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUVlkS2RkaW9vaFYyMktjaXJiVU5UN09qb0x5NXRueUptMEhIUWtLSHVGVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2SksrVmYrdGJ0SEc2R1VrQnh3akpTR0paR2JWazZydFpmRXZrZHpJR2tRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPU1phNG1BWDNzd1AvRTYvUzFzUHJlWTRicFRsalRjVnlyVU83bWZDYVd3PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZPYklESlVOc0gyZi9PQVUwakNkbnk2THpMK1Z3VGlQR1ZLVE5mNWxUbnM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImhOa0dqVVpyZElJajRBVVNMMlBUNmhIZXBHL3ZQaVdvUW5YMkpKTHBVbHc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid09iVk1ZLytDRzF3RVJnSkdDbGE2c010QUFDNnM0dGJLVlVXWURLVGNsOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZDhFMXViZUhvTTdmL29QUkQxalUxTEZvMmdJQjNvbktXUzI5VGFZb09tZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJNa01NbVhyNm5VNjVWb1JkU25qYkN1NDZtUXFtdnV1dDFYSmV1aFNockw2UjFWaUxNbTcxaUVQL25MNzlndCtELzIyMkV2akF2cEtrelozbS9FM0N3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjM1LCJhZHZTZWNyZXRLZXkiOiJSVndqQVFMajd1bEx2ZWUxbnNPQXQwL053R3g2V0VIR1hmRGRxSXQ1YmFJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjIzNDgxNjg3NzIzMjhAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiNDQ0NThDMDcwM0NGRTI1MkVCMTU5RDM4NzUwMjJEODgifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyMjIxNjcwNH1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiX0FpUEU4czJTY3FBdjJjSHJvZXBldyIsInBob25lSWQiOiI1YmY1YzE0My1lMDQzLTQzODItOTcyOC1kMTcxNzI4MGUxOTQiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOUhyNExlMlBOV29Nb3Jqbkk3R3hWUi9kekQwPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkU0QU9EVWpmTWJDb3BnRWlsVHM3YzBNVThPdz0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiI3Q1hWUDhTNiIsIm1lIjp7ImlkIjoiMjM0ODE2ODc3MjMyODo5OEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSm1VN3E4SEVPN2htN1VHR0FjZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoibGpha2FrODhUNkpNUTFDa2lwUitOOG5WditqWlVCdC8rMkJUWDJaUEloMD0iLCJhY2NvdW50U2lnbmF0dXJlIjoidjVtdkQ2QUs1NmVnTjhJRUE5V0RacUJHWC9LTU1BQm5PT0pCdURNUHdobThpSUVrUzRBKzRxK2JCTmNtbjl4NWZ2cDdaZXBSUm9hK0d2UmFPSUxyQXc9PSIsImRldmljZVNpZ25hdHVyZSI6Img5VlBVdmZ3NWlPSDhjSTlydkRXUHNzRy8vL0s0ekROaU5hZzZTdDhFRFNZZnFxaHpFdW44VDNyRUxQTkxQaDk5WVhtY0p3ZmE2RDhmRWN5NmxndUNRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0ODE2ODc3MjMyODo5OEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJaWTJwR3BQUEUraVRFTlFwSXFVZmpmSjFiL28yVkFiZi90Z1UxOW1UeUlkIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIyMjE2Njk5LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUtlZiJ9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
